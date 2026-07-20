@@ -1,0 +1,161 @@
+{
+	"basics": {
+		"name": "Raúl Fdez Glez (DevCodeWolf)",
+		"label": "Desarrollador Full-Stack con enfoque en Frontend, especializado en desarrollo web y dedicado a crear experiencias digitales impactantes y funcionales",
+		"image": "/logoDevCodeWolf.webp",
+		"email": "hello@devcodewolf.com",
+		"phone": "+34 605357138",
+		"url": "https://devcodewolf.com/",
+		"summary": [
+			{
+				"paragraph": "Programador web y desarrollador frontend con más de 10 años de trayectoria. Me especializo en crear interfaces intuitivas, accesibles y estéticamente atractivas. Mi enfoque actual está en el ecosistema moderno de JavaScript, escalando soluciones robustas con frameworks de vanguardia."
+			},
+			{
+				"paragraph": "Me apasiona diseñar interfaces donde la estética y la usabilidad convergen. Tras 10 años dominando los pilares del desarrollo frontend, he dado el salto hacia el dominio de stacks modernos como React y Node. "
+			},
+			{
+				"paragraph": "Entiendo la tecnología como un aprendizaje continuo: es la única vía para ofrecer resultados de alto impacto y mantenerme a la vanguardia de una industria que nunca se detiene. Mi objetivo siempre es el mismo: código limpio, interfaces intuitivas y soluciones de alta calidad."
+			}
+		],
+
+		"location": {
+			"city": "Gijón",
+			"region": "Asturias"
+		},
+		"profiles": [
+			{
+				"network": "GitHub",
+				"username": "devcodewolf",
+				"url": "https://github.com/devcodewolf"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "devcodewolf",
+				"url": "https://www.linkedin.com/in/raul-f-750398205/"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Artline",
+			"position": "Desarrollador Web Full-Stack & EdTech Specialist",
+			"startDate": "2013-06-01",
+			"endDate": null,
+			"summary": "Liderazgo en el desarrollo de ecosistemas de aprendizaje interactivo (e-learning) utilizando HTML5, CSS3 y JavaScript (ES6+).\nModernización del flujo de trabajo mediante la implementación de Vue.js para la creación de cursos modulares, escalables y de alto rendimiento.\n\nArquitectura y desarrollo de soluciones web a medida, incluyendo landing pages optimizadas para conversión y aplicaciones interactivas complejas.\n\nEspecialista en Gamificación: Diseño y programación de juegos interactivos orientados a mejorar el engagement y la retención del usuario.",
+
+			"highlights": [""],
+			"isRemote": false
+		},
+		{
+			"name": "ADN Mobile",
+			"position": "Prácticas",
+			"startDate": "2013-01-01",
+			"endDate": "2013-02-01",
+			"summary": "Practicas laborales en ADN Mobile. Pertenecientes al certificado de Profesionalidad Desarrollo de productos multimedia interactivos.",
+			"highlights": [""],
+			"isRemote": false
+		}
+	],
+	"education": [
+		{
+			"institution": "CIFP La Laboral(Gijón)",
+			"area": " Ciclo formativo Grado Superior Desarrollo de aplicaciones web.",
+			"startDate": "2015-01-01",
+			"endDate": "2017-01-01"
+		},
+		{
+			"institution": "CISLAN",
+			"area": "Desarrollo Aplicaciones Multimedia interactivas. Certificado de Profesionalidad.",
+			"startDate": "2012-01-01",
+			"endDate": "2012-09-01"
+		}
+	],
+	"certificates": [
+		{
+			"name": "Desarrollo de Aplicaciones Neo4j con TypeScript",
+			"date": "2024-01-26",
+			"organization": "Neo4j GraphAcademy",
+			"url": "https://graphacademy.neo4j.com/c/39a38074-f78a-4476-b185-224f6280781e/"
+		}
+	],
+	"skills": [
+		{
+			"name": "HTML"
+		},
+		{
+			"name": "CSS / Tailwind CSS"
+		},
+		{
+			"name": "JavaScript / TypeScript"
+		},
+		{
+			"name": "Git / GitHub"
+		},
+		{
+			"name": "Node.js / Express.js"
+		},
+		{
+			"name": "SQL / SQLite / Prisma"
+		},
+		{
+			"name": "Vue"
+		},
+		{
+			"name": "React / Next.js"
+		},
+		{
+			"name": "Astro"
+		}
+	],
+	"softskills": [
+		{
+			"name": "Resolución de problemas"
+		},
+		{
+			"name": "Comunicación"
+		},
+		{
+			"name": "Liderazgo"
+		},
+		{
+			"name": "Trabajo en equipo"
+		},
+		{
+			"name": "Pensamiento crítico"
+		},
+		{
+			"name": "Mentalidad de crecimiento"
+		},
+		{
+			"name": "Gestión del tiempo"
+		},
+		{
+			"name": "Innovación"
+		}
+	],
+	"projects": [
+		{
+			"name": "Porfolio Personal",
+			"isActive": true,
+			"description": "Mi porfolio personal donde muestro mis proyectos, habilidades y experiencia. Es un espacio para compartir mi trabajo y conectar con otros profesionales del sector.",
+			"highlights": ["Optimizado para SEO", "Astro"],
+			"url": "https://devcodewolf.com/",
+			"github": "https://github.com/devcodewolf/devcodewolf"
+		},
+		{
+			"name": "Wallet Wise",
+			"isActive": true,
+			"description": "Una aplicación moderna, intuitiva y potente para tomar el control de tus finanzas personales desarrollada en Next 15.",
+			"highlights": ["Next", "TypeScript", "Prisma"],
+			"url": "https://wallet-wise-inky-iota.vercel.app",
+			"github": "https://github.com/devcodewolf/WalletWise"
+		},
+		{
+			"name": "Vimi",
+			"isActive": true,
+			"description": "Vimi convierte cualquier vídeo en una experiencia interactiva, 100% en el navegador: añade tooltips, textos, preguntas y bifurcaciones sobre la línea de tiempo y expórtalo como componente listo para usar.",
+			"highlights": ["Astro", "Vue", "TypeScript"],
+			"url": "https://vimi.devcodewolf.com"
+		}
+	]
+}
